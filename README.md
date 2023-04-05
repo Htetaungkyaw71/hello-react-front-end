@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 A react app that displays a random message sent from the backend by making a simple get request.
 
-- You can find the back-end app of this project using this [link](https://github.com/Htetaungkyaw71/hello-react-front-end)
+- You can find the back-end app of this project using this [link](https://github.com/Htetaungkyaw71/hello-rails-back-end/pull/1)
 
 ## 🛠 Built With <a name="built-with"></a>
 
